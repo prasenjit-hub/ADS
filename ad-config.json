@@ -1,0 +1,9 @@
+{
+  "enabled": true,
+  "imageUrl": "https://raw.githubusercontent.com/prasenjit-hub/ADS/main/banner.png",
+  "linkUrl": "https://github.com/prasenjit-hub/ADS",
+  "altText": "Sponsored",
+  "width": 728,
+  "height": 90,
+  "dismissible": true
+}
